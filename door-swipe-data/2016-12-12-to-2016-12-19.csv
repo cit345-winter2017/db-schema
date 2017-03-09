@@ -1,0 +1,104 @@
+Door Access Actual DateTime,Door Name,Result,Expected Graduation year,Unique Identifier
+12/12/2016 11:03:08 AM,Med Annex2,Accepted Online,2019,Med Student 318
+12/12/2016 11:08:34 AM,Med Annex2,Accepted Online,2019,Med Student 404
+12/12/2016 11:15:34 AM,Med Annex2,Accepted Online,2020,Med Student 485
+12/12/2016 12:16:39 PM,Med Annex2,Accepted Online,2019,Med Student 318
+12/12/2016 12:18:17 PM,Med Annex1,Accepted Online,2019,Med Student 318
+12/12/2016 12:56:47 PM,Med Annex2,Accepted Online,2020,Med Student 485
+12/12/2016 1:03:46 PM,Med Annex2,Accepted Online,2020,Med Student 485
+12/12/2016 2:21:10 PM,Med Annex2,Accepted Online,2019,Med Student 404
+12/12/2016 2:54:39 PM,Med Annex2,Accepted Online,2019,Med Student 318
+12/12/2016 3:11:02 PM,Med Annex2,Accepted Online,2020,Med Student 485
+12/12/2016 3:16:59 PM,MED #9 KL,Accepted Online,2020,Med Student 451
+12/12/2016 3:30:07 PM,Med Annex2,Accepted Online,{null},Staff
+12/12/2016 3:40:06 PM,MED #4 KL,Accepted Online,{null},Staff
+12/12/2016 4:05:32 PM,Med Annex2,Accepted Online,2019,Med Student 374
+12/12/2016 4:24:34 PM,Med Annex2,Accepted Online,2019,Med Student 404
+12/12/2016 5:13:58 PM,Med Annex2,Accepted Online,2019,Med Student 318
+12/12/2016 5:59:35 PM,Med Annex1,Accepted Online,{null},Staff
+12/12/2016 6:37:34 PM,Med Annex2,Accepted Online,2020,Med Student 485
+12/12/2016 7:13:18 PM,Med Annex2,Accepted Online,2019,Med Student 318
+12/13/2016 6:21:04 AM,Med Annex2,Accepted Online,{null},Staff
+12/13/2016 10:38:03 AM,Med Annex2,Accepted Online,{null},Staff
+12/13/2016 11:22:34 AM,MED #4 KL,Accepted Online,{null},Staff
+12/13/2016 11:27:29 AM,Med Annex2,Accepted Online,2019,Med Student 318
+12/13/2016 12:09:26 PM,Med Annex2,Accepted Online,2019,Med Student 404
+12/13/2016 1:32:08 PM,Med Annex2,Accepted Online,2019,Med Student 318
+12/13/2016 2:31:31 PM,Med Annex2,Accepted Online,2019,Med Student 404
+12/13/2016 4:06:13 PM,Med Annex2,Accepted Online,2019,Med Student 404
+12/13/2016 4:08:25 PM,Med Annex2,Accepted Online,2019,Med Student 404
+12/13/2016 5:12:31 PM,Med Annex2,Accepted Online,{null},Staff
+12/13/2016 5:23:34 PM,Med Annex2,Accepted Online,2019,Med Student 404
+12/13/2016 5:39:15 PM,Med Annex1,Accepted Online,2019,Med Student 318
+12/13/2016 5:46:48 PM,Med Annex2,Accepted Online,{null},Staff
+12/13/2016 7:06:45 PM,Med Annex2,Accepted Online,2019,Med Student 404
+12/13/2016 7:15:33 PM,Med Annex2,Accepted Online,2019,Med Student 318
+12/14/2016 8:44:50 AM,Med Annex2,Accepted Online,{null},Staff
+12/14/2016 9:05:22 AM,MED #5 KL,Accepted Online,2017,Med Student 165
+12/14/2016 9:05:43 AM,MED #9 KL,Accepted Online,2017,Med Student 165
+12/14/2016 9:09:20 AM,MED #9 KL,Accepted Online,2017,Med Student 165
+12/14/2016 9:49:12 AM,Med Annex2,Accepted Online,{null},Staff
+12/14/2016 10:00:59 AM,Med Annex2,Accepted Online,{null},Staff
+12/14/2016 10:04:05 AM,Med Annex2,Accepted Online,{null},Staff
+12/14/2016 1:01:32 PM,MED #9 KL,Accepted Online,2017,Med Student 165
+12/14/2016 1:02:40 PM,MED #9 KL,Accepted Online,2017,Med Student 165
+12/14/2016 3:12:24 PM,Med Annex2,Accepted Online,{null},Staff
+12/14/2016 3:14:10 PM,MED #6 KL,Accepted Online,{null},Staff
+12/14/2016 3:14:36 PM,MED #7 KL,Accepted Online,{null},Staff
+12/14/2016 3:15:10 PM,MED #5 KL,Accepted Online,{null},Staff
+12/14/2016 3:15:38 PM,Med #1 KL,Accepted Online,{null},Staff
+12/14/2016 3:16:11 PM,MED #3 KL,Accepted Online,{null},Staff
+12/14/2016 3:16:37 PM,Med #2 KL,Accepted Online,{null},Staff
+12/14/2016 3:19:09 PM,Med Annex2,Accepted Online,{null},Staff
+12/14/2016 3:25:55 PM,Med #1 KL,Accepted Online,{null},Staff
+12/14/2016 3:26:04 PM,MED #3 KL,Accepted Online,{null},Staff
+12/14/2016 3:55:08 PM,MED #9 KL,Accepted Online,2017,Med Student 165
+12/14/2016 3:55:35 PM,Med Annex1,Accepted Online,2017,Med Student 165
+12/14/2016 3:58:19 PM,Med Annex1,Accepted Online,2017,Med Student 165
+12/14/2016 3:59:22 PM,MED #9 KL,Accepted Online,2017,Med Student 165
+12/14/2016 4:04:13 PM,Med Annex2,Accepted Online,2020,Med Student 492
+12/14/2016 4:50:39 PM,MED #9 KL,Accepted Online,2017,Med Student 165
+12/14/2016 5:03:43 PM,MED #9 KL,Accepted Online,{null},Staff
+12/14/2016 5:42:11 PM,Med Annex2,Accepted Online,2020,Med Student 492
+12/15/2016 9:25:56 AM,Med Annex2,Accepted Online,{null},Staff
+12/15/2016 9:55:16 AM,Med Annex2,Accepted Online,2019,Med Student 318
+12/15/2016 10:49:32 AM,Med Annex2,Accepted Online,2019,Med Student 430
+12/15/2016 10:58:39 AM,Med Annex2,Accepted Online,2019,Med Student 404
+12/15/2016 11:06:13 AM,Med Annex1,Accepted Online,2019,Med Student 318
+12/15/2016 11:34:38 AM,Med Annex2,Accepted Online,{null},Staff
+12/15/2016 11:40:31 AM,Med Annex2,Accepted Online,2019,Med Student 426
+12/15/2016 11:59:04 AM,MED #9 KL,Accepted Online,2018,Med Student 225
+12/15/2016 12:38:51 PM,MED #9 KL,Accepted Online,2018,Med Student 225
+12/15/2016 12:53:10 PM,Med Annex2,Accepted Online,{null},Staff
+12/15/2016 12:58:08 PM,Med Annex2,Accepted Online,2019,Med Student 318
+12/15/2016 1:10:46 PM,MED #9 KL,Accepted Online,2018,Med Student 225
+12/15/2016 1:13:25 PM,Med Annex2,Accepted Online,2019,Med Student 439
+12/15/2016 1:25:45 PM,MED #9 KL,Accepted Online,2018,Med Student 225
+12/15/2016 1:35:00 PM,Med Annex2,Accepted Online,2019,Med Student 404
+12/15/2016 1:38:18 PM,Med Annex1,Accepted Online,2019,Med Student 439
+12/15/2016 1:43:29 PM,MED #8 KL,Accepted Online,2019,Med Student 426
+12/15/2016 1:48:00 PM,MED #8 KL,Accepted Online,2019,Med Student 426
+12/15/2016 1:52:37 PM,MED #9 KL,Accepted Online,2018,Med Student 225
+12/15/2016 1:56:41 PM,Med Annex2,Accepted Online,2019,Med Student 404
+12/15/2016 2:01:42 PM,MED #9 KL,Accepted Online,2018,Med Student 225
+12/15/2016 2:20:37 PM,Med Annex2,Accepted Online,2019,Med Student 430
+12/15/2016 3:30:06 PM,MED #4 KL,Accepted Online,2019,Med Student 426
+12/15/2016 3:40:05 PM,Med Annex1,Accepted Online,2019,Med Student 439
+12/15/2016 4:15:00 PM,Med Annex2,Accepted Online,2020,Med Student 512
+12/15/2016 4:19:59 PM,Med Annex2,Accepted Online,2020,Med Student 491
+12/15/2016 4:24:13 PM,Med Annex2,Accepted Online,2020,Med Student 541
+12/15/2016 4:24:50 PM,MED #6 KL,Accepted Online,2020,Med Student 491
+12/15/2016 4:54:59 PM,MED #8 KL,Accepted Online,2019,Med Student 426
+12/15/2016 4:55:13 PM,Med Annex2,Accepted Online,{null},Staff
+12/15/2016 4:58:19 PM,MED #4 KL,Accepted Online,2019,Med Student 426
+12/15/2016 5:31:37 PM,Med Annex2,Accepted Online,{null},Staff
+12/15/2016 5:47:59 PM,Med Annex1,Accepted Online,2019,Med Student 439
+12/15/2016 5:53:28 PM,MED #8 KL,Accepted Online,{null},{null}
+12/15/2016 5:58:33 PM,MED #4 KL,Accepted Online,{null},Staff
+12/16/2016 6:56:11 AM,Med Annex2,Accepted Online,{null},Staff
+12/16/2016 6:58:14 AM,MED #6 KL,Accepted Online,{null},Staff
+12/16/2016 9:44:12 AM,Med Annex2,Accepted Online,{null},Staff
+12/16/2016 10:02:14 AM,Med Annex2,Accepted Online,2020,Med Student 514
+12/16/2016 10:17:13 AM,Med Annex2,Accepted Online,2019,Med Student 318
+12/16/2016 12:36:43 PM,Med Annex2,Accepted Online,2019,Med Student 318
+12/16/2016 3:01:16 PM,Med Annex2,Accepted Online,{null},Staff

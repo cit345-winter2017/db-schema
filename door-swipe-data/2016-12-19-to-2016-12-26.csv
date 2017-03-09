@@ -1,0 +1,45 @@
+Door Access Actual DateTime,Door Name,Result,Expected Graduation year,Unique Identifier
+12/19/2016 7:50:35 AM,Med Annex2,Accepted Online,{null},Staff
+12/19/2016 1:05:59 PM,Med Annex2,Accepted Online,2019,Med Student 318
+12/19/2016 1:08:35 PM,Med Annex2,Accepted Online,2019,Med Student 318
+12/19/2016 2:09:42 PM,Med Annex2,Accepted Online,{null},Staff
+12/19/2016 4:42:39 PM,Med Annex2,Accepted Online,{null},Staff
+12/19/2016 5:06:18 PM,Med Annex2,Accepted Online,2019,Med Student 318
+12/19/2016 5:09:48 PM,Med Annex2,Accepted Online,2019,Med Student 318
+12/20/2016 9:46:14 AM,MED #4 KL,Accepted Online,{null},{null}
+12/20/2016 12:22:43 PM,MED #4 KL,Accepted Online,{null},Staff
+12/20/2016 2:11:36 PM,Med Annex2,Accepted Online,{null},Staff
+12/20/2016 2:17:32 PM,Med Annex2,Accepted Online,{null},Staff
+12/20/2016 3:31:06 PM,MED #4 KL,Accepted Online,{null},Staff
+12/21/2016 9:32:40 AM,MED #8 KL,Accepted Online,2019,Med Student 337
+12/21/2016 9:45:21 AM,Med Annex2,Accepted Online,{null},Staff
+12/21/2016 10:06:54 AM,Med Annex2,Accepted Online,2019,Med Student 318
+12/21/2016 10:29:06 AM,MED #8 KL,Accepted Online,2019,Med Student 337
+12/21/2016 3:13:12 PM,Med Annex2,Accepted Online,2019,Med Student 318
+12/21/2016 3:27:03 PM,MED #8 KL,Accepted Online,2019,Med Student 321
+12/21/2016 3:28:36 PM,MED #7 KL,Accepted Online,2019,Med Student 321
+12/21/2016 5:16:06 PM,Med Annex2,Accepted Online,{null},Staff
+12/22/2016 10:12:41 AM,MED #6 KL,Accepted Online,{null},Staff
+12/22/2016 10:12:50 AM,MED #7 KL,Accepted Online,{null},Staff
+12/22/2016 10:12:56 AM,MED #5 KL,Accepted Online,{null},Staff
+12/22/2016 10:13:06 AM,Med #1 KL,Accepted Online,{null},Staff
+12/22/2016 10:13:14 AM,MED #3 KL,Accepted Online,{null},Staff
+12/22/2016 10:13:24 AM,Med #2 KL,Accepted Online,{null},Staff
+12/22/2016 11:00:09 AM,MED #6 KL,Accepted Online,{null},Staff
+12/22/2016 11:01:04 AM,MED #7 KL,Accepted Online,{null},Staff
+12/22/2016 11:01:23 AM,MED #5 KL,Accepted Online,{null},Staff
+12/22/2016 11:02:03 AM,Med #1 KL,Accepted Online,{null},Staff
+12/22/2016 11:02:14 AM,MED #3 KL,Accepted Online,{null},Staff
+12/22/2016 11:02:24 AM,Med #2 KL,Accepted Online,{null},Staff
+12/22/2016 11:04:26 AM,Med Annex1,Accepted Online,{null},Staff
+12/22/2016 11:37:26 AM,MED #6 KL,Accepted Online,{null},Staff
+12/22/2016 11:37:45 AM,MED #7 KL,Accepted Online,{null},Staff
+12/22/2016 11:38:09 AM,MED #5 KL,Accepted Online,{null},Staff
+12/22/2016 11:38:33 AM,Med #1 KL,Accepted Online,{null},Staff
+12/22/2016 11:38:58 AM,MED #3 KL,Accepted Online,{null},Staff
+12/22/2016 11:39:28 AM,Med #2 KL,Accepted Online,{null},Staff
+12/22/2016 12:42:04 PM,MED #4 KL,Accepted Online,{null},Staff
+12/22/2016 2:47:35 PM,Med Annex2,Accepted Online,{null},Staff
+12/22/2016 2:49:10 PM,Med Annex1,Accepted Online,{null},Staff
+12/22/2016 2:55:38 PM,Med Annex2,Accepted Online,{null},Staff
+12/22/2016 2:59:33 PM,Med Annex2,Accepted Online,{null},Staff

@@ -1,0 +1,94 @@
+Door Access Actual DateTime,Door Name,Result,Expected Graduation year,Unique Identifier
+7/18/2016 8:18:39 AM,MED #8 KL,Accepted Online,2017,Med Student 172
+7/18/2016 8:23:17 AM,MED #8 KL,Accepted Online,2017,Med Student 172
+7/18/2016 9:43:02 AM,MED #8 KL,Accepted Online,2017,Med Student 172
+7/18/2016 9:44:20 AM,Med Annex2,Accepted Online,{null},Staff
+7/18/2016 9:50:31 AM,Med Annex2,Accepted Online,{null},Staff
+7/18/2016 9:56:09 AM,Med Annex2,Accepted Online,{null},Staff
+7/18/2016 10:57:48 AM,MED #8 KL,Accepted Online,2017,Med Student 172
+7/18/2016 11:16:07 AM,Med Annex2,Accepted Online,{null},Staff
+7/18/2016 11:52:53 AM,Med Annex2,Accepted Online,2017,Med Student 196
+7/18/2016 11:58:17 AM,Med Annex1,Accepted Online,2017,Med Student 196
+7/18/2016 12:03:59 PM,Med Annex1,Accepted Online,2017,Med Student 172
+7/18/2016 1:30:14 PM,MED #8 KL,Accepted Online,2017,Med Student 172
+7/18/2016 1:37:55 PM,Med Annex2,Accepted Online,{null},Staff
+7/18/2016 2:12:17 PM,MED #8 KL,Accepted Online,2017,Med Student 172
+7/18/2016 3:18:37 PM,Med Annex1,Accepted Online,2017,Med Student 172
+7/18/2016 3:32:59 PM,MED #4 KL,Accepted Online,2017,Med Student 196
+7/18/2016 3:56:17 PM,Med Annex2,Accepted Online,2017,Med Student 172
+7/18/2016 4:39:50 PM,Med Annex1,Accepted Online,2017,Med Student 172
+7/18/2016 6:03:47 PM,Med Annex1,Accepted Online,2017,Med Student 172
+7/18/2016 6:16:13 PM,Med Annex1,Accepted Online,2017,Med Student 196
+7/18/2016 6:56:48 PM,MED #8 KL,Accepted Online,2017,Med Student 196
+7/19/2016 9:22:51 AM,Med Annex2,Accepted Online,{null},Staff
+7/19/2016 11:20:09 AM,MED #8 KL,Accepted Online,{null},{null}
+7/19/2016 1:15:08 PM,MED #8 KL,Accepted Online,2017,Med Student 196
+7/19/2016 1:23:07 PM,MED #8 KL,Accepted Online,2017,Med Student 196
+7/19/2016 1:24:37 PM,Med Annex2,Accepted Online,{null},Staff
+7/19/2016 3:28:51 PM,MED #8 KL,Accepted Online,2017,Med Student 196
+7/19/2016 5:56:32 PM,MED #8 KL,Accepted Online,2017,Med Student 196
+7/19/2016 7:06:10 PM,MED #8 KL,Accepted Online,2017,Med Student 196
+7/20/2016 8:25:55 AM,Med Annex1,Accepted Online,{null},Staff
+7/20/2016 8:27:27 AM,Med Annex1,Accepted Online,{null},Staff
+7/20/2016 9:22:00 AM,MED #8 KL,Accepted Online,2017,Med Student 172
+7/20/2016 10:05:56 AM,MED #4 KL,Accepted Online,{null},Staff
+7/20/2016 10:49:43 AM,MED #8 KL,Accepted Online,2017,Med Student 172
+7/20/2016 11:42:07 AM,Med Annex2,Accepted Online,{null},Staff
+7/20/2016 12:18:17 PM,MED #8 KL,Accepted Online,2017,Med Student 196
+7/20/2016 12:21:34 PM,MED #8 KL,Accepted Online,2017,Med Student 196
+7/20/2016 12:22:30 PM,MED #8 KL,Accepted Online,2017,Med Student 172
+7/20/2016 12:26:30 PM,Med Annex2,Accepted Online,{null},Staff
+7/20/2016 1:55:41 PM,Med Annex1,Accepted Online,2017,Med Student 196
+7/20/2016 2:09:37 PM,Med Annex1,Accepted Online,2017,Med Student 172
+7/20/2016 2:41:34 PM,MED #8 KL,Accepted Online,2017,Med Student 196
+7/20/2016 2:47:21 PM,Med Annex2,Accepted Online,2017,Med Student 172
+7/20/2016 4:05:16 PM,Med Annex1,Accepted Online,2017,Med Student 172
+7/20/2016 4:16:07 PM,MED #4 KL,Accepted Online,{null},{null}
+7/20/2016 5:38:23 PM,Med Annex1,Accepted Online,2017,Med Student 172
+7/21/2016 12:21:05 PM,Med Annex2,Accepted Online,2017,Med Student 196
+7/21/2016 12:22:34 PM,Med Annex2,Accepted Online,2017,Med Student 196
+7/21/2016 1:24:30 PM,Med Annex2,Accepted Online,2017,Med Student 172
+7/21/2016 1:45:48 PM,MED #4 KL,perm sch invalid,{null},{null}
+7/21/2016 2:23:59 PM,MED #8 KL,Accepted Online,{null},Staff
+7/21/2016 2:28:07 PM,Med Annex2,Accepted Online,{null},Staff
+7/21/2016 2:36:21 PM,MED #4 KL,Accepted Online,2017,Med Student 196
+7/21/2016 3:45:31 PM,Med #1 KL,Accepted Online,2017,Med Student 196
+7/21/2016 3:56:56 PM,Med #1 KL,Accepted Online,2017,Med Student 196
+7/21/2016 4:06:09 PM,Med Annex1,Accepted Online,2017,Med Student 172
+7/21/2016 4:16:06 PM,MED #4 KL,Accepted Online,{null},{null}
+7/21/2016 5:06:46 PM,Med #1 KL,Accepted Online,2017,Med Student 196
+7/21/2016 5:44:28 PM,MED #4 KL,Accepted Online,2017,Med Student 196
+7/22/2016 8:08:23 AM,MED #8 KL,Accepted Online,2017,Med Student 172
+7/22/2016 8:25:39 AM,MED #8 KL,Accepted Online,2017,Med Student 172
+7/22/2016 9:39:53 AM,MED #8 KL,Accepted Online,2017,Med Student 172
+7/22/2016 11:10:54 AM,Med Annex1,Accepted Online,2017,Med Student 172
+7/22/2016 11:13:17 AM,Med Annex1,Accepted Online,2017,Med Student 172
+7/22/2016 11:31:27 AM,Med Annex2,Accepted Online,2017,Med Student 172
+7/22/2016 11:34:02 AM,Med Annex2,Accepted Online,{null},Staff
+7/22/2016 11:37:50 AM,Med Annex2,Accepted Online,{null},Faculty
+7/22/2016 11:38:11 AM,Med Annex2,Accepted Online,{null},Staff
+7/22/2016 12:14:50 PM,Med #1 KL,Accepted Online,2017,Med Student 127
+7/22/2016 12:43:34 PM,Med Annex2,Accepted Online,2017,Med Student 196
+7/22/2016 12:54:14 PM,MED #4 KL,Accepted Online,2017,Med Student 196
+7/22/2016 1:51:07 PM,Med Annex1,Accepted Online,{null},Staff
+7/22/2016 1:59:30 PM,Med Annex1,Accepted Online,2017,Med Student 172
+7/22/2016 2:02:30 PM,Med Annex2,Accepted Online,2017,Med Student 172
+7/22/2016 3:02:10 PM,Med Annex1,Accepted Online,2017,Med Student 172
+7/22/2016 3:02:14 PM,Med #1 KL,Accepted Online,2017,Med Student 127
+7/22/2016 4:12:02 PM,Med #1 KL,Accepted Online,2017,Med Student 127
+7/22/2016 8:47:05 PM,Med #1 KL,Accepted Online,2017,Med Student 127
+7/22/2016 8:48:00 PM,Med #1 KL,Accepted Online,2017,Med Student 127
+7/22/2016 8:56:56 PM,Med #1 KL,Accepted Online,2017,Med Student 127
+7/22/2016 9:19:43 PM,Med Annex2,Accepted Online,2018,Med Student 283
+7/22/2016 11:31:32 PM,Med #1 KL,Accepted Online,2017,Med Student 127
+7/22/2016 11:32:16 PM,Med #1 KL,Accepted Online,2017,Med Student 127
+7/23/2016 11:46:40 AM,MED #8 KL,Accepted Online,2017,Med Student 196
+7/23/2016 3:50:51 PM,Med Annex1,Accepted Online,2017,Med Student 196
+7/24/2016 8:28:29 AM,MED #8 KL,Accepted Online,2017,Med Student 172
+7/24/2016 9:21:19 AM,MED #8 KL,Accepted Online,2017,Med Student 172
+7/24/2016 10:48:36 AM,Med Annex1,Accepted Online,2017,Med Student 172
+7/24/2016 11:59:41 AM,MED #8 KL,Accepted Online,2017,Med Student 172
+7/24/2016 1:08:51 PM,Med Annex2,Accepted Online,2017,Med Student 172
+7/24/2016 1:27:49 PM,MED #8 KL,Accepted Online,2017,Med Student 172
+7/24/2016 3:36:20 PM,MED #8 KL,Accepted Online,2017,Med Student 172
+7/24/2016 5:22:22 PM,MED #8 KL,Accepted Online,2017,Med Student 172
